@@ -93,4 +93,4 @@ pip install -r requirements.txt
 - **scikit-learn** - Machine Learning Tools (MinMaxScaler)
 
 ## Autor
-Statistik 2 Projekt - FHNW
+Statistik 2 Projekt - Pleurat Kelmendi HSLU
